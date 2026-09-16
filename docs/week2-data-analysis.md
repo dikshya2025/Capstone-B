@@ -27,5 +27,3 @@ The team identified the important data required by the system.
 | Created Date            | Records when data was created   | System           | All users       | Yes       |
 | Updated Date            | Records latest update           | System           | All users       | Yes       |
 | Project Version         | Tracks project version          | Developer        | Team            | Yes       |
-
- the team identify the important project data, understand how data moves through the system, identify data quality risks, and plan future information requirements. These findings will support the database and backend development of the project.
