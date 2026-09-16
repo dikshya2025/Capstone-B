@@ -1,8 +1,6 @@
 
 ## Project Data Inventory
 
-The team identified the important data required by the system.
-
 | Data Item               | Purpose                         | Who Creates It?  | Who Uses It?    | Required? |
 | ----------------------- | ------------------------------- | ---------------- | --------------- | --------- |
 | Project ID              | Identifies each project         | Developer/System | All users       | Yes       |
