@@ -60,17 +60,6 @@ The Week 2 activities include:
 * Identifying data quality risks.
 * Planning future data requirements.
 
-## Documentation
-
-Detailed Week 2 documentation is available in:
-
-`docs/week2-data-analysis.md`
-
-## Team Workflow
-
-The general development workflow is:
-
-**Jira Task → Development → GitHub Commit → Pull Request → Team Review → Improvements → Merge**
 
 ## Future Development
 
