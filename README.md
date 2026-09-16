@@ -37,16 +37,6 @@ The main tools used are:
 * **GitHub** – code and documentation management
 * **GitHub Pull Requests** – team review and feedback
 
-## Repository Structure
-
-```text
-Capstone-B/
-│
-├── README.md
-│
-└── docs/
-    └── week2-data-analysis.md
-```
 
 ## Project Progress
 
