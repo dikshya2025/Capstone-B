@@ -76,6 +76,22 @@ Overall, the three participants showed that customers generally expect clear pro
 specifications, availability and reviews were identified as useful information. Search, filtering, navigation and related product recommendations were also considered helpful 
 for finding products quickly. These findings support the improvements identified from the Kmart, JB Hi-Fi and Amazon investigation.
           
+# Comparing Our MVP with Industry System
+Our MVP	                Industry Systems	                      Missing Opportunity
+Product Name	      Product name + detailed information	  More detailed product information
+Product Description	      Detailed descriptions/specifications	  Add structured specifications
+Price	                Price + discounts/promotions	            Add sale/original price
+Category	                Categories + filters	                      Improve filtering
+Product Search	      Search + filters	                      Add advanced filters
+Product Image	      Multiple product images	                      Allow multiple images
+ Product Information      Brand/model information	                      Add brand and model fields
+Product Information	      Availability information	            Add stock/availability
+Basic catalogue	      Product variations	                      Add colour/size/model variations
+Basic product page	      Ratings/reviews	                      Consider future review functionality
+Admin CRUD	      Product status	                      Add active/inactive status
+Basic product records     Product update information	            Add created/updated dates
 
+Gap Analysis Summary
+The investigation identified several differences between our current MVP and industry retail systems. Our MVP provides the basic product catalogue functionality, but industry systems provide richer product information, filtering, availability, product variations and customer-facing information. These gaps provide useful requirements for the next version of our system.
 
           
