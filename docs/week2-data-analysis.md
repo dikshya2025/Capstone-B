@@ -1,27 +1,27 @@
 
 ## Project Data Inventory
 
-| Data Item               | Purpose                         | Who Creates It?  | Who Uses It?    | Required? |
-| ----------------------- | ------------------------------- | ---------------- | --------------- | --------- |
-| Project ID              | Identifies each project         | Developer/System | All users       | Yes       |
-| Project Name            | Identifies the project          | Project Manager  | All users       | Yes       |
-| Project Description     | Explains the project            | Project Manager  | All users       | Yes       |
-| Project Status          | Shows current project status    | Project Manager  | All users       | Yes       |
-| Project Owner           | Identifies project owner        | Project Manager  | Reviewers       | Yes       |
-| Project Category        | Classifies the project          | Project Manager  | All users       | Yes       |
-| Start Date              | Records project start           | Project Manager  | All users       | Yes       |
-| End Date                | Records project completion      | Project Manager  | All users       | No        |
-| Security Classification | Defines project sensitivity     | Project Manager  | Reviewers/Admin | Yes       |
-| User ID                 | Identifies a user               | System/Admin     | System          | Yes       |
-| Username                | Identifies login user           | User/Admin       | System          | Yes       |
-| Email                   | User contact/login information  | User/Admin       | System          | Yes       |
-| User Role               | Defines permissions             | Admin            | System          | Yes       |
-| Team Member             | Records project members         | Project Manager  | Team            | No        |
-| Reviewer                | Records assigned reviewer       | Project Manager  | Team            | No        |
-| Review Status           | Records review result           | Reviewer         | Project Manager | Yes       |
-| Review Date             | Records when review occurred    | Reviewer         | Project Manager | No        |
-| Document Name           | Identifies project document     | Project Member   | Team/Reviewer   | No        |
-| Document Type           | Identifies document format/type | Project Member   | Team/Reviewer   | No        |
-| Created Date            | Records when data was created   | System           | All users       | Yes       |
-| Updated Date            | Records latest update           | System           | All users       | Yes       |
-| Project Version         | Tracks project version          | Developer        | Team            | Yes       |
+| Data Item               | Purpose                                                   | Creator                      | User            |
+| ----------------------- | --------------------------------------------------------- | ---------------------------- | --------------- |
+| Project ID              | Identifies each project                                   |  Administrator/System        | Customers/Admin |
+| Project Name            | Identifies the project                                    |  Administrator               | Customers/Admin |
+| Project Description     | Explains the project                                      |  Administrator               | Customers       |
+| Project Price           | Shows current project status                              |  Administrator               | Customers/Admin |
+| Category                | Identifies project owner                                  |  Administrator               | Customers/Admin |
+| Brand                   | Classifies the project                                    |  Administrator               | Customers       |
+| Product image           | Records project start                                     |  Administrator               | Customers       |
+| Stock Level             | Records project completion                                |  Administrator/System        | Admin           |
+| Availability Status     | Defines project sensitivity                               |  Administrator/System        | Customers/Admin | 
+| SKU                     | Identifies a user                                         |  Administrator/System        | Admin           |
+| Product Specification   | Identifies login user                                     |  Administrator               | Customers/Admin |
+| Product Colour          | User contact/login information                            |  Administrator               | Customers |
+| Product size            | Defines permissions                                       |  Administrator               | Customers|
+| Product Weight          | Records project members                                   |  Administrator               | Customers|
+| Product Dimension       | Records assigned reviewer                                 |  Administrator               | Customers|
+| Discount Price          | Records review result                                     |  Administrator               | Customers |
+| Original Price          | Records when review occurred                              |  Administrator               | Customers/Admin |
+| Document Name           | Identifies project document                               |  Administrator               | Customers|
+| Brand/Model Number      |Identifies the exact product model                         |  Administrator               | Customers/Admin |
+| Delivery Information    |Provides available delivery options and information        | Administrator/System   |Customers |
+| Store Availability      |Shows whether the product is available at a physical store |Administrator/System   |Customers/Admin |
+ 
