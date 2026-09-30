@@ -3,15 +3,15 @@
 
 | Data Item               | Purpose                                                   | Creator                      | User            |
 | ----------------------- | --------------------------------------------------------- | ---------------------------- | --------------- |
-| Project ID              | Identifies each project                                   |  Administrator/System        | Customers/Admin |
-| Project Name            | Identifies the project                                    |  Administrator               | Customers/Admin |
-| Project Description     | Explains the project                                      |  Administrator               | Customers       |
-| Project Price           | Shows current project status                              |  Administrator               | Customers/Admin |
+| Product ID              | Identifies each product                                   |  Administrator/System        | Customers/Admin |
+| product Name            | Identifies the product                                    |  Administrator               | Customers/Admin |
+| product Description     | Explains the product                                     |  Administrator               | Customers       |
+| product Price           | Shows current project status                              |  Administrator               | Customers/Admin |
 | Category                | Identifies project owner                                  |  Administrator               | Customers/Admin |
-| Brand                   | Classifies the project                                    |  Administrator               | Customers       |
-| Product image           | Records project start                                     |  Administrator               | Customers       |
-| Stock Level             | Records project completion                                |  Administrator/System        | Admin           |
-| Availability Status     | Defines project sensitivity                               |  Administrator/System        | Customers/Admin | 
+| Brand                   | Classifies the product                                    |  Administrator               | Customers       |
+| Product image           | Records product stats                                    |  Administrator               | Customers       |
+| Stock Level             | Records product completion                                |  Administrator/System        | Admin           |
+| Availability Status     | Defines product sensitivity                               |  Administrator/System        | Customers/Admin | 
 | SKU                     | Identifies a user                                         |  Administrator/System        | Admin           |
 | Product Specification   | Identifies login user                                     |  Administrator               | Customers/Admin |
 | Product Colour          | User contact/login information                            |  Administrator               | Customers |
