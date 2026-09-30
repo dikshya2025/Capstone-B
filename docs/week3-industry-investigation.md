@@ -94,4 +94,5 @@ Basic product records     Product update information	            Add created/upd
 Gap Analysis Summary
 The investigation identified several differences between our current MVP and industry retail systems. Our MVP provides the basic product catalogue functionality, but industry systems provide richer product information, filtering, availability, product variations and customer-facing information. These gaps provide useful requirements for the next version of our system.
 
+
           
