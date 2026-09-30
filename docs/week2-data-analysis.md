@@ -4,9 +4,9 @@
 | Data Item               | Purpose                                                   | Creator                      | User            | Importance |
 | ----------------------- | --------------------------------------------------------- | ---------------------------- | --------------- |---------------|
 | Product ID              | Uniquely identifies a product                                |  Administrator/System        | Customers/Admin | High|
-| product Name            | Identifies the product                                    |  Administrator               | Customers/Admin | High|
-| product Description     | Explains the product  and its feature                                  |  Administrator               | Customers       |High|
-| product Price           | Shows the purchasing cost                             |  Administrator               | Customers/Admin |High|
+| Product Name            | Identifies the product                                    |  Administrator               | Customers/Admin | High|
+| Product Description     | Explains the product  and its feature                                  |  Administrator               | Customers       |High|
+| Product Price           | Shows the purchasing cost                             |  Administrator               | Customers/Admin |High|
 | Category                | Groups similar products together                                  |  Administrator               | Customers/Admin | High|
 | Brand                   | Identifies the manufacturer or brand                                    |  Administrator               | Customers       | Medium|
 | Product image           | Helps customers understand the product visually                                   |  Administrator               | Customers       | High|
