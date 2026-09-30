@@ -1,27 +1,26 @@
 
 ## Project Data Inventory
 
-| Data Item               | Purpose                                                   | Creator                      | User            |
-| ----------------------- | --------------------------------------------------------- | ---------------------------- | --------------- |
-| Product ID              | Identifies each product                                   |  Administrator/System        | Customers/Admin |
-| product Name            | Identifies the product                                    |  Administrator               | Customers/Admin |
-| product Description     | Explains the product                                    |  Administrator               | Customers       |
-| product Price           | Shows current product status                              |  Administrator               | Customers/Admin |
-| Category                | Identifies product owner                                  |  Administrator               | Customers/Admin |
-| Brand                   | Classifies the product                                    |  Administrator               | Customers       |
-| Product image           | Records product stats                                    |  Administrator               | Customers       |
-| Stock Level             | Records product completion                                |  Administrator/System        | Admin           |
-| Availability Status     | Defines product sensitivity                               |  Administrator/System        | Customers/Admin | 
-| SKU                     | Identifies a user                                         |  Administrator/System        | Admin           |
-| Product Specification   | Identifies login user                                     |  Administrator               | Customers/Admin |
-| Product Colour          | User contact/login information                            |  Administrator               | Customers |
-| Product size            | Defines permissions                                       |  Administrator               | Customers|
-| Product Weight          | Records product information                                    |  Administrator               | Customers|
-| Product Dimension       | Records assigned reviewer                                 |  Administrator               | Customers|
-| Discount Price          | Records review result                                     |  Administrator               | Customers |
-| Original Price          | Records when review occurred                              |  Administrator               | Customers/Admin |
-| Document Name           | Identifies product document                               |  Administrator               | Customers|
-| Brand/Model Number      |Identifies the exact product model                         |  Administrator               | Customers/Admin |
-| Delivery Information    |Provides available delivery options and information        | Administrator/System   |Customers |
-| Store Availability      |Shows whether the product is available at a physical store |Administrator/System   |Customers/Admin |
+| Data Item               | Purpose                                                   | Creator                      | User            | Importance |
+| ----------------------- | --------------------------------------------------------- | ---------------------------- | --------------- |---------------|
+| Product ID              | Uniquely identifies a product                                |  Administrator/System        | Customers/Admin | High|
+| product Name            | Identifies the product                                    |  Administrator               | Customers/Admin | High|
+| product Description     | Explains the product  and its feature                                  |  Administrator               | Customers       |High|
+| product Price           | Shows the purchasing cost                             |  Administrator               | Customers/Admin |High|
+| Category                | Groups similar products together                                  |  Administrator               | Customers/Admin | High|
+| Brand                   | Identifies the manufacturer or brand                                    |  Administrator               | Customers       | Medium|
+| Product image           | Helps customers understand the product visually                                   |  Administrator               | Customers       | High|
+| Stock Level             | Shows the quantity currently available                                |  Administrator/System        | Admin           | High|
+| Availability Status     | Shows whether the product can be purchased                              |  Administrator/System        | Customers/Admin | High|
+| SKU                     | Identifies a specific product item                                         |  Administrator/System        | Admin           | High|
+| Product Specification   | Provides technical or detailed product information                                    |  Administrator               | Customers | High|
+| Product Colour          | Identifies available colour options                            |  Administrator               | Customers | Medium|
+| Product size            | Identifies available size options                                      |  Administrator               | Customers| Medium|
+| Product Weight          | Provides information about product weight and handling                                    |  Administrator               | Customers| Medium|
+| Product Dimension       | Provides the physical measurements of the product                                 |  Administrator               | Customers| Medium|
+| Discount Price          | Shows the current promotional or sale price                                     |  Administrator               | Customers/Admin |High|
+| Original Price          | Shows the standard price for comparison with discounts                              |  Administrator               | Customers | Medium|
+| Brand/Model Number      |Identifies the exact product model                         |  Administrator               | Customers/Admin | High|
+| Delivery Information    |Provides available delivery options and information        | Administrator/System   |Customers | High|
+| Store Availability      |Shows whether the product is available at a physical store |Administrator/System   |Customers/Admin | Medium|
  
